@@ -4,7 +4,7 @@
 
 Welcome to my E-commerce Customer Behavior Analysis project! This data-driven project dives into understanding and predicting customer behavior for an e-commerce company. Utilizing Python and powerful data science libraries like pandas, numpy, matplotlib, seaborn, and scikit-learn, I performed an exploratory data analysis and developed a predictive model.
 
-📊t: **Key Findings:**
+📊 **Key Findings:**
 
 1. **Exploratory Data Analysis:** I started by exploring the dataset, visualizing the relationships between different factors. Notable insights include the positive correlation between 'Length of Membership' and 'Yearly Amount Spent,' and the negative correlation between 'Time on Website' and 'Yearly Amount Spent.'
 
