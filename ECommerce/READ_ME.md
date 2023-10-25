@@ -6,7 +6,7 @@ Welcome to my E-commerce Customer Behavior Analysis project! This data-driven pr
 
 📊 **Key Findings:**
 
-1. **Exploratory Data Analysis:** I started by exploring the dataset, visualizing the relationships between different factors. Notable insights include the positive correlation between 'Length of Membership' and 'Yearly Amount Spent,' and the negative correlation between 'Time on Website' and 'Yearly Amount Spent.'
+1. **Exploratory Data Analysis:** I started by exploring the dataset, visualizing the relationships between different factors.
 
 2. **Data Preprocessing:** To prepare the data for modeling, I scaled the features using Min-Max scaling and split it into training and testing sets.
 
