@@ -2,7 +2,7 @@
 
 Discover the world through data with the International Tourist Arrivals Analysis. This project delves into a comprehensive exploration of international tourist arrivals from 1995 to 2021. Using Python and data analysis libraries, this project uncovers intriguing insights and trends in international tourism.
 
-# Key Highlights:
+**Key Highlights:**
 
 1. **Data Analysis:** The project begins by importing and cleaning a dataset containing international tourist arrivals data. Columns such as 'Code' are removed to focus on essential information.
 
