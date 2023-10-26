@@ -1,6 +1,6 @@
 # Predictive Analysis of E-commerce Customer Behavior Project
 
-🚀 **Overview:**
+📝 **Overview:**
 
 Welcome to my E-commerce Customer Behavior Analysis project! This data-driven project dives into understanding and predicting customer behavior for an e-commerce company. Utilizing Python and powerful data science libraries like pandas, numpy, matplotlib, seaborn, and scikit-learn, I performed an exploratory data analysis and developed a predictive model.
 
